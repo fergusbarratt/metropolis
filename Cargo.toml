@@ -1,0 +1,11 @@
+[package]
+name = "metropolis"
+version = "0.1.0"
+authors = ["Fergus Barratt <fergus.barratt.12@ucl.ac.uk>"]
+
+[dependencies]
+itertools = "0.4"
+rand = "0.3"
+nalgebra = "*" 
+gnuplot = "*"
+num="0.1"
